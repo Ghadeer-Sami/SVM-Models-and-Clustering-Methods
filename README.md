@@ -1,4 +1,4 @@
-# Machine Learning Assignment 2 – SVM Models and Clustering Methods
+# Machine Learning – SVM Models and Clustering Methods
 
 This assignment explores Support Vector Machine (SVM) models and unsupervised clustering methods (K-Means and Hierarchical Clustering) on two datasets:  
 **Breast Cancer Diagnostic Dataset** and **Adult Income Dataset**.
